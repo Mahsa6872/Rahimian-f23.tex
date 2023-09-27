@@ -1,0 +1,4 @@
+# Rahimian-f23.tex
+My Ph.D. research is about software defined networking. 
+In order to describe the concept of SDN, we should first figure out how the Traditional networking architecture has been built. Traditional networking architectures often suffer from limitations in terms of flexibility, scalability, and network management complexity. In this approach, the intelligence and control functions are spread out across different devices in the network. now, after understand the shortcoming of the current networking architecture, I define SDN like Imagine if your network could be controlled and managed from a single, powerful brain. That's what SDN is all about! It's a new way of building networks that separates the control of the network from the actual devices that send and receive data
+The purpose of creating this repository is adding some of my Computerscience research course assignments. It may use for my future research as well.
